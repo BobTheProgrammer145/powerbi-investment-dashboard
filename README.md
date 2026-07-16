@@ -52,10 +52,10 @@ The `Portfolio Value At Date` measure was the most technically involved part of 
 
 ## Files in this repo
 
-- `investment_dashboard.pbix` — the full Power BI project file (open in Power BI Desktop to explore interactively)
+- `Mel_Stenemann_TFSA_EasyEquities_Dashboard.pbix` — the full Power BI project file (open in Power BI Desktop to explore interactively)
 - `investment_dashboard.pdf` — static export of the dashboard
 - `dashboard_screenshot.png` — preview image
-- `data/` — the five source CSV files used to build the model
+- `fact_transactions.csv`, `fact_prices.csv`, `dim_date.csv`, `dim_instruments.csv`, `dim_accounts.csv` — the five source CSV files used to build the model
 
 ## Notes
 
