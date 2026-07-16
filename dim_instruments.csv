@@ -1,0 +1,7 @@
+InstrumentID;Ticker;Name;Category;Account
+INS01;STXWDM;Satrix MSCI World Feeder ETF;Global Equity ETF;ACC01
+INS02;SYGTOP;Sygnia Itrix FTSE/JSE Top 40 ETF;SA Equity ETF;ACC01
+INS03;AGBAL;Allan Gray Balanced Fund;Unit Trust - Balanced;ACC01
+INS04;NPN;Naspers Ltd;SA Share;ACC02
+INS05;STXNDQ;Satrix Nasdaq 100 ETF;Global Equity ETF;ACC02
+INS06;AGL;Anglo American plc;SA Share;ACC02
